@@ -267,4 +267,8 @@ footer{
         width: 40%;
         padding-right: 5%;
     }
+
+    footer{
+        height: 30vh;
+    }
 }
